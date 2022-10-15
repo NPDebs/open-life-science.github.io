@@ -70,6 +70,13 @@
       <div class="people-description-question">Expertise:</div> {{ user.expertise | join: ", " }}
     </p>
     {% endif %}
+    
+    {% if user.projects %}
+    <p>
+      <div class="people-projects">Projects:</div>
+      <a href="https://openlifesci.org/{{ user.cohort }}/projects-participants/#participant/">{{ user.projects | join: ", " }}</a>
+    </p>
+    {% endif %}
 
     <div class="people-description">
       {% if user.bio %}      

@@ -373,6 +373,7 @@ anayan321:
     transcriptomics to researchers of different fields. I enjoy bridging people from
     different expertise and encourage openness and collaboration.
   city: Bangkok
+  cohort: ols-1
   country: Thailand
   expertise:
   - Immunology
@@ -382,6 +383,7 @@ anayan321:
   - Interdisciplinery research
   first-name: Anunya
   last-name: Opasawatchai
+  projects: 'AMRITA: an online database for herbal medicine'
   pronouns: She, her
   twitter: Pk_star
 andre-vargas-de:
@@ -1023,9 +1025,11 @@ bhuvanameenakshik:
   website: https://www.linkedin.com/in/bhuvana-meenakshi-koteeswaran-a67b58103/
 billbrod:
   affiliation: New York University
+  cohort: ols-1
   country: United States
   first-name: Billy
   last-name: (William) Broderick
+  projects: 'Expanding plenoptic Python Package'
   pronouns: he/him
   twitter: wfbroderick
 birgül-çolak-al:
@@ -1059,6 +1063,9 @@ bonetcarne:
   first-name: Elisenda
   last-name: Bonet-Carne
   pronouns: she/her
+  projects: 'Open Science Community Barcelona (OSCBa)'
+  role: mentee
+  cohort: ols-1
   twitter: bonetcarne
 brainonsilicon:
   affiliation: University of Leeds
@@ -1071,6 +1078,7 @@ bruno-soares:
   affiliation: Universidade Federal Do Rio De Janeiro
   bio: Bruno is a Brazilian ecologist working on a more collaborative and open science.
   city: Rio De Janeiro
+  cohort: ols-1
   country: Brazil
   expertise:
   - SciComm
@@ -1080,6 +1088,7 @@ bruno-soares:
   first-name: Bruno
   last-name: Soares
   orcid: 0000-0001-5678-0403
+  projects: '@Diversidade em Foco'
   pronouns: He/Him
   twitter: Bruno_E_Soares
   website: https://sites.google.com/view/bruno-eleres-soares
@@ -1200,6 +1209,7 @@ cassgvp:
     I care a lot about inclusivity and being a positive role model in my interactions
     and leadership.
   city: Oxford
+  cohort: ols-1
   country: United Kingdom
   expertise:
   - Neuroimaging
@@ -1213,6 +1223,7 @@ cassgvp:
   first-name: Cassandra
   last-name: Gould Van Praag
   orcid: 0000-0002-8584-4637
+  projects: 'Oxford Neuroscience Open Science Co-ordinator: Changing Culture'
   pronouns: she/her
   twitter: cassgvp
   website: https://www.psych.ox.ac.uk/team/cassandra-gould-van-praag
@@ -1279,6 +1290,7 @@ cemonks:
   twitter: archaeo_ecology
 chadsansing:
   affiliation: Mozilla Foundation
+  cohort: ols-1
   country: United States
   first-name: Chad
   last-name: Sansing
@@ -1289,6 +1301,7 @@ chiara-damiani:
   github: false
   last-name: Damiani
   orcid: 0000-0002-5742-8302
+  projects: 'Infusing a culture of open science within the community of researchers at the Zuckerman Institute'
   website: https://sites.google.com/view/chiaradamiani/
 chiarabertipaglia:
   affiliation: Columbia University | Zuckerman Institute
@@ -1313,6 +1326,7 @@ christinerogers:
     Neurological Institute. Mentor for Google Summer of Code and Season of Docs, and
     past participant in OLS program.
   city: Montreal
+  cohort: ols-1
   country: Canada
   expertise:
   - Neuroinformatics
@@ -1322,6 +1336,7 @@ christinerogers:
   first-name: Christine
   last-name: Rogers
   orcid: christine.rogers@mcgill.ca
+  projects: 'Improving open platform accessibility'
   pronouns: she/her
   twitter: xtinerogers
 chucklesongithub:
@@ -1445,9 +1460,11 @@ danae-carelis-davila-espinoza:
   twitter: CarelisDavila
 dannycolin:
   affiliation: Université de Montréal
+  cohort: ols-1
   country: Canada
   first-name: Danny
   last-name: Colin
+  projects: 'Open Science UMontreal (OSUM)'
   pronouns: he/him
   twitter: dannycolincom
 darwin-diaz:
@@ -1499,9 +1516,11 @@ davidbeavan:
   twitter: DavidBeavan
 davidviryachen:
   affiliation: Osaka University
+  cohort: ols-1
   country: Japan
   first-name: David
   last-name: Chentanaman
+  projects: 'AMRITA: an online database for herbal medicine'
   pronouns: he/him
   twitter: davidchenn
 deepakunni3:
@@ -1605,9 +1624,11 @@ dimmestp:
   twitter: youvegotmyname
 dlebauer:
   affiliation: University of Arizona
+  cohort: ols-1
   country: United States
   first-name: David
   last-name: LeBauer
+  projects: 'Improving Documentation for Open Data and Software in the Agricultural Research Community'
   pronouns: he/him
   twitter: dlebauer
 dsarahstamps:
@@ -1758,10 +1779,12 @@ elisa-on-github:
   twitter: Elisa_in_tweets
 elsasci:
   affiliation: eLife
+  cohort: ols-1
   country: United Kingdom
   first-name: Elsa
   github: false
   last-name: Loissel
+  projects: 'How to build an healthy and open lab'
   pronouns: she/her
   twitter: elsasci
 emma-anne-harris:
@@ -1947,10 +1970,15 @@ ewallace:
   website: https://ewallace.github.io
 ewuramaminka:
   affiliation: University of Manchester
+  cohort: ols-1
   country: United Kingdom
   first-name: Deborah
   last-name: Akuoko
   pronouns: she/her
+  projects: 'Investigate feasible solutions to help create a system that creates, collects and processes
+    data efficiently for impactful research especially for driving health research and driving health
+    related policies'
+  role: mentee
   twitter: eminka_da
 fabienne-lucas:
   affiliation: Brigham And Women'S Hospital
@@ -2022,12 +2050,14 @@ fnyasimi:
   bio: Festus is a bioinformatician interested in community outreach, open science
     and networking. He is actively engaged in training activities and he is the lead
     at the Bioinformatics Hub of Kenya.
+  cohort: ols-1
   country: Kenya
   expertise:
   - Bioinformatics
   - Biomedical Research
   first-name: Festus
   last-name: Nyasimi
+  projects: 'Bioinformatics Hub of Kenya (BHK)'
   pronouns: he/him
   twitter: Festus_nyasimi
 fpsom:
@@ -2345,9 +2375,11 @@ hilyatuz-zahroh:
   twitter: hilyatuzzahrah
 homo-sapiens34:
   affiliation: IITP RAS
+  cohort: ols-1
   country: Russia
   first-name: Zoe
   last-name: Chervontseva
+  projects: 'Benchmarking environment for bioinformatics tools'
   pronouns: she/her
 honoluluskye:
   affiliation: Code for Science and Society
@@ -3042,6 +3074,7 @@ karvovskaya:
     to learning from OLS project leads about their projects and supporting them through
     their challenges!
   city: Amsterdam
+  cohort: ols-1
   country: Netherlands
   expertise:
   - Linguistics
@@ -3052,6 +3085,7 @@ karvovskaya:
   first-name: Lena
   last-name: Karvovskaya
   orcid: 0000-0001-7777-5603
+  projects: 'Creating network of Data Champions at the library of Free University of Amsterdam'
   pronouns: she, her
   twitter: langdata
 katesimpson:
@@ -3149,9 +3183,11 @@ kipkurui:
   twitter: calkibet
 kiragu-mwaura:
   affiliation: Institute of Primate Research
+  cohort: ols-1
   country: Kenya
   first-name: David
   last-name: Kiragu Mwaura
+  projects: 'Bioinformatics Hub of Kenya (BHK)'
   pronouns: he/him
   twitter: MwauraKiragu
 kiri93:
@@ -3250,9 +3286,11 @@ koudyk:
   twitter: koudyk_
 kristinariemer:
   affiliation: University of Arizona
+  cohort: ols-1
   country: United States
   first-name: Kristina
   last-name: Riemer
+  projects: 'Improving Documentation for Open Data and Software in the Agricultural Research Community'
   pronouns: she/her
   twitter: KristinaRiemer
 kswhitney:
@@ -3300,12 +3338,14 @@ landimi2:
     workflow management systems to enhance reproducible and scalable data analysis.
     I am a certified software carpentry instructor and an OLS graduate.
   city: Nairobi
+  cohort: ols-1
   country: Kenya
   expertise:
   - Bioinformatics
   - Community based projects
   first-name: Michael
   last-name: Landi
+  projects: 'Bioinformatics Hub of Kenya (BHK)'
   pronouns: He/Him
   twitter: CofiaLandy
 lauracarter:
@@ -3353,9 +3393,11 @@ laurichi13:
   twitter: 13laurichi
 lazycipher:
   affiliation: Galgotias University
+  cohort: ols-1
   country: India
   first-name: Himanshu
   last-name: Singh
+  projects: 'InterMine Similarity Explorer'
   pronouns: he/him
   twitter: lazycipher
 lenny-teytelman:
@@ -3366,9 +3408,11 @@ lenny-teytelman:
   twitter: lteytelman
 lilian9:
   affiliation: Information Training and Outreach Centre for Africa
+  cohort: ols-1
   country: Kenya
   first-name: Lilian
   last-name: Juma
+  projects: 'Open Connect Platform in Africa'
   pronouns: she/her
 lisanna:
   affiliation: Embl Heidelberg
@@ -3571,9 +3615,11 @@ macelik:
   pronouns: He/Him
 magicmilly:
   affiliation: University of Arizona
+  cohort: ols-1
   country: United States
   first-name: Emily
   last-name: Cain
+  projects: 'Improving Documentation for Open Data and Software in the Agricultural Research Community'
   pronouns: she/her
   twitter: magic_milly
 mai-alajaji:
@@ -3844,9 +3890,11 @@ masako-kaufmann:
   pronouns: She, her
 matuskalas:
   affiliation: University of Bergen
+  cohort: ols-1
   country: Norway
   first-name: Matúš
   last-name: Kalaš
+  projects: 'EDAM ontology'
   pronouns: he/him
   twitter: matuskalas
 mblue9:
@@ -3879,12 +3927,14 @@ meagdoh:
 megmugure:
   affiliation: International Centre Of Insect Physiology And Ecology
   city: Nairobi
+  cohort: ols-1
   country: Kenya
   expertise:
   - Community building
   - Bioinformatics
   first-name: Margaret
   last-name: Wanjiku
+  projects: 'Bioinformatics Hub of Kenya (BHK)'
   pronouns: she/her
   twitter: meg_wanjiku
   website: https://megwanjiku.medium.com
@@ -4105,9 +4155,11 @@ mohan-gupta:
   twitter: Mohan Gupta
 morphofun:
   affiliation: The George Washington University
+  cohort: ols-1
   country: United States
   first-name: Sandy
   last-name: Kawano
+  projects: 'Enabling open science practices in biology education'
   pronouns: she/her
   twitter: MorphoFun
 mruizvelley:
@@ -4242,8 +4294,10 @@ nadinespy:
 naralb:
   affiliation: Museu Pará Emílio Goeldi
   country: Brazil
+  cohort: ols-1
   first-name: Naraiana
   last-name: Loureiro Benone
+  projects: '@Diversidade em Foco'
   pronouns: she/her
   twitter: nlbenone
 natty2012:
@@ -4908,6 +4962,7 @@ samguay:
     accessible, and inclusive to all. He is the cofounder of Open Science UMontreal,
     an initiative that aims to facilitate the transition to a more open and transparent
     way of doing science.
+  cohort: ols-1
   country: Canada
   expertise:
   - Open Science
@@ -4916,6 +4971,7 @@ samguay:
   - Clinical neuroscience
   first-name: Samuel
   last-name: Guay
+  projects: 'Open Science UMontreal (OSUM)'
   pronouns: he/him
   twitter: SamGuay_
   website: https://openscience.ca
@@ -5231,9 +5287,11 @@ shubhamrj7:
   website: https://rse-asia.github.io/RSE_Asia/
 sithyphus:
   affiliation: University of Arizona
+  cohort: ols-1
   country: United States
   first-name: Jorge
   last-name: Barrios
+  projects: 'Improving Documentation for Open Data and Software in the Agricultural Research Community'
   pronouns: he/him
 sjb287:
   affiliation: University Of Illinois At Urbana-Champaign
@@ -5404,9 +5462,11 @@ stefaniebutland:
   website: https://stefaniebutland.netlify.app/
 sudarshangc:
   affiliation: Media Lab Nepal
+  cohort: ols-1
   country: Nepal
   first-name: Sudarshan
   last-name: GC
+  projects: 'Media Lab Nepal for Computational Biology'
   pronouns: he/him
   twitter: Sudarsh07847591
 tai-rocha:
@@ -5617,6 +5677,7 @@ unode:
     advocate. When not tanning in front of a screen you may find him wandering the
     green and blue in Nature.
   city: Heidelberg
+  cohort: ols-1
   country: Germany
   expertise:
   - Full-stack developer
@@ -5628,6 +5689,7 @@ unode:
   first-name: Renato
   last-name: Alves
   orcid: 0000-0002-7212-0234
+  projects: 'EMBL Bio-IT Community Project'
   pronouns: he/him
   twitter: renato_alvs
 valerie-parent:
