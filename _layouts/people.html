@@ -41,10 +41,14 @@ we ask that you follow our <a href="/code-of-conduct">code of conduct</a> in all
 <!-- OLS-1 -->
 <!-- extract participants and mentors -->
 {% assign ols-1-projects = site.data.ols-1-projects %}
+{% assign ols-1-projectnames = '' %}
 {% assign ols-1-participants = '' %}
 {% assign ols-1-mentors = '' %}
 {% for project in ols-1-projects %}
     {% for p in project.participants %}
+    {% for proj in project.name %}
+        {% capture ols-1-projectnames %}{{ ols-1-projectnames }} {{ proj }}{% endcapture %}
+    {% endfor %}
         {% capture ols-1-participants %}{{ ols-1-participants }} {{ p }}{% endcapture %}
     {% endfor %}
     {% for m in project.mentors %}
