@@ -69,11 +69,39 @@
     <p class="people">
       <div class="people-description-question">Expertise:</div> {{ user.expertise | join: ", " }}
     </p>
-
-    <p class="people">
-      <div class="people">Projects:</div>{{ project-name }}
-    </p>
+    <!-- <p class="people">
+      <div class="people-projects">Projects_two:</div> {{ ols-1-participants }}
+    </p> -->
     {% endif %}
+
+    <!-- Test with one known participant -->
+    <div>Project</div> 
+    {% for person in ols-1-participants %}
+      {% assign person = '' %}
+      {% for project in ols-1-projects %}
+        {% assign participants = project.participants %}
+        {% for participant in participants %}
+          {% if participant == 'bonetcarne' %}
+            <div>test int</div>
+            {{ project.name }}
+          {% endif %}
+        {% endfor %}
+      {% endfor %}
+    {% endfor %}
+
+    <!-- Test 2: Outputs nothing -->
+    <div>Project too:</div> 
+    {% for person in ols-1-participants %}
+      {% for project in ols-1-projects %}
+        {% assign participants = project.participants %}
+        {% for participant in participants %}
+          {% if participant == person %}
+            <div>test 2 int</div>
+            {{ project.name }}
+          {% endif %}
+        {% endfor %}
+      {% endfor %}
+    {% endfor %}
 
     <div class="people-description">
       {% if user.bio %}      
