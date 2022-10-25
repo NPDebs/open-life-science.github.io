@@ -41,30 +41,21 @@ we ask that you follow our <a href="/code-of-conduct">code of conduct</a> in all
 <!-- OLS-1 -->
 <!-- extract participants and mentors -->
 {% assign ols-1-projects = site.data.ols-1-projects %}
-{% assign ols-1-projectnames = '' %}
+{% assign ols-1-project-name = '' %}
 {% assign ols-1-participants = '' %}
 {% assign ols-1-mentors = '' %}
-{% for project in ols-1-projects %}
-    {% for proj in project.name %}
-        {% capture ols-1-projectnames %}{{ ols-1-projectnames }} {{ proj }}{% endcapture %}
+{% for project in ols-1-projects %} 
+    {% for topic in project.name %}
+        {{ project.participants }}
+        {% capture ols-1-project-name %}{{ ols-1-project-name }} {{ topic }}{% endcapture %}
     {% endfor %}
     {% for p in project.participants %}
-        {% capture ols-1-participants %}{{ ols-1-participants }} {{ p }}{% endcapture %}
+        {% capture ols-1-participants %}{{ ols-1-participants }} {{ p }} {{ ols-1-project-name }}{% endcapture %}
     {% endfor %}
     {% for m in project.mentors %}
         {% capture ols-1-mentors %}{{ ols-1-mentors }} {{ m }}{% endcapture %}
     {% endfor %}
 {% endfor %}
-
-<!--For 1 person, loop through projects for their name. Print project.name where there is a match-->
-    {% for person in ols-1-participants &}
-        {% for project in ols-1-projects %}
-            {% if project.participants == person %}
-                {% capture project-name %}{{ project-name }}{{ project.name }}{% endcapture %}
-            {% endif %}
-        {% endfor %}
-    {% endfor %}
-
 <!-- extract experts and organizers -->
 {% assign ols-1-experts = site.data.ols-1-metadata.experts | join: ' ' %}
 {% assign ols-1-organizers = site.data.ols-1-metadata.organizers | join: ' ' %}
@@ -421,5 +412,3 @@ we ask that you follow our <a href="/code-of-conduct">code of conduct</a> in all
         {% include _includes/people.html username=username user=user ols-roles=ols-roles%}
     {% endfor %}
 </div>
-
-
