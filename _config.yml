@@ -44,3 +44,5 @@ includes_dir: .
 plugins:
   - jekyll-last-modified-at
   - jekyll-redirect-from
+
+theme: ols-theme 
