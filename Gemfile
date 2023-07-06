@@ -7,4 +7,4 @@ gem 'nokogiri', group: :jekyll_plugins
 gem 'html-proofer', group: :jekyll_plugins
 gem 'jekyll-redirect-from', group: :jekyll_plugins
 gem 'webrick', group: :jekyll_plugins
-gem 'ols-theme', '~> 0.7.0'
+gem 'ols-theme', '~> 0.8.0'
