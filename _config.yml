@@ -46,3 +46,5 @@ includes_dir: .
 plugins:
   - jekyll-redirect-from
   - jekyll-github-metadata
+
+theme: ols-theme
