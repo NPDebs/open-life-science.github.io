@@ -42,6 +42,8 @@ weeks:
       type: Mentor-Mentee
       resources: []
       talks: []
+      learning_objectives: "- Meet each other\n- Discuss their personal motivation,
+        expectations, workin practices and project goals"
     - date: September 16, 2021
       time: "16:00"
       duration: 60 min
@@ -53,6 +55,9 @@ weeks:
       type: Mentor
       resources: []
       talks: []
+      learning_objectives: "- Understand common successes and challenges in mentoring
+        OLS participants\n- Know how to celebrate successes and approach challenges
+        in mentoring OLS participants."
     - date: September 17, 2021
       time: "10:00"
       duration: 60 min
@@ -64,6 +69,9 @@ weeks:
       type: Mentor
       resources: []
       talks: []
+      learning_objectives: "- Understand common successes and challenges in mentoring
+        OLS participants\n- Know how to celebrate successes and approach challenges
+        in mentoring OLS participants."
   '02':
     start: September 20, 2021
     calls:
@@ -119,6 +127,11 @@ weeks:
         title: Introducing Road Mapping
         recording: https://youtu.be/NsVX4a3ZOF8?t=2642
         tag: Project Roadmapping
+      learning_objectives: "- Say hello and introduce ourselves\n- Review our Community
+        Participation Guidelines\n- Review our definition of open leadership\n- Unpack
+        the differences between “open by default” and “open by design”\n- Learn about
+        common community interactions in open projects.\n- Learn about common value
+        exchanges between community members in open science"
     - date: September 22, 2021
       time: "18:00"
       duration: 180 min
@@ -194,6 +207,11 @@ weeks:
         title: Introducing Road Mapping
         recording: https://youtu.be/gcDNb_-JbDI?t=3069
         tag: Project Roadmapping
+      learning_objectives: "- Say hello and introduce ourselves\n- Review our Community
+        Participation Guidelines\n- Review our definition of open leadership\n- Unpack
+        the differences between “open by default” and “open by design”\n- Learn about
+        common community interactions in open projects.\n- Learn about common value
+        exchanges between community members in open science"
   '04':
     start: October 04, 2021
     calls:
@@ -207,7 +225,7 @@ weeks:
         project structure and files used may look different on your project.\n  "
       title: Tooling and roadmapping for Open projects
       type: Cohort
-      before: |
+      before: |-
         - Look up two other projects and comment on their GitHub issues with feedback on their open canvas
         - Rework on your vision statement
            - Write your vision in the [Up-Goer 5 editor](https://splasho.com/upgoer5/) or [Hemingway Editor](https://www.hemingwayapp.com/)
@@ -251,6 +269,10 @@ weeks:
         title: Contributing Guidelines and Code of Conduct
         recording: https://youtu.be/kAxVZDI18RU?t=3329
         tag: Code of Conduct
+      learning_objectives: "- Look at project structure as we build open projects\n
+        - Go over the standard files in open projects\n   - README\n   - LICENSE\n\
+        \   - CODE_OF_CONDUCT.md\n   - CONTRIBUTING.md\n\n   The exact project structure
+        and files used may look different on your project.\n  "
   '05':
     start: October 11, 2021
     calls:
@@ -291,6 +313,9 @@ weeks:
         title: Introduction to GitHub
         recording: https://youtu.be/lRW8mlpTw5M
         tag: GitHub Introduction
+      learning_objectives: "- Create a GitHub repository\n- Write in Markdown\n- Create
+        a README file\n- Enable a small website via GitHub\n- Managing issues and
+        labels\n- Submit changes via Pull Request"
   '06':
     start: October 18, 2021
     calls:
@@ -309,11 +334,11 @@ weeks:
         on their README'
       after: |-
         - [Get your project online](https://mozilla.github.io/open-leadership-training-series/articles/get-your-project-online/)
-          For help with GitHub and GitPages, check the [slides](https://docs.google.com/presentation/d/1_bmRZcLwQrUkVTAMvq7W_x4ML_aphSwVEnkLrDy-Fd4/edit?usp=sharing) and [video](https://youtu.be/QRUvQgKbVZQ) from [week 05](/openseeds/ols-4/schedule.html#week-05).
+          For help with GitHub and GitPages, check the [slides](https://docs.google.com/presentation/d/1_bmRZcLwQrUkVTAMvq7W_x4ML_aphSwVEnkLrDy-Fd4/edit?usp=sharing) and [video](https://youtu.be/QRUvQgKbVZQ) from week 05
         - [Create a project development plan for your project](https://docs.google.com/document/d/1DlU8_3AfYWpy8MZ2Hb0Ls-2c1HvHdp1luzxWGaqLXHE/edit?usp=sharing)
           Assignment to help you use Agile methods to breakdown your milestones into smaller tasks and define a timeline for your milestones
           In your own time: After this assignment, you can transfer your tasks to a project management or kanban tools such as [GitHub projects](https://unito.io/blog/github-projects-agile/)), [Trello](https://trello.com/templates/project-management), [Asana](https://asana.com/uses/kanban-boards?msclkid=c0e51366148511fc77394d30727faada&utm_source=bing&utm_medium=cpc&utm_campaign=NB%7CUK%7CEN%7CBoards%7CEX&utm_term=kanban%20board&utm_content=Kanban%20Board), [Zenhub in GitHub](https://www.zenhub.com/)
-        - Start creating a [contribution guideline](https://mozilla.github.io/open-leadership-training-series/articles/building-communities-of-contributors/write-contributor-guidelines/) for your communit
+        - Start creating a [contribution guideline](https://mozilla.github.io/open-leadership-training-series/articles/building-communities-of-contributors/write-contributor-guidelines/) for your community
       recording: https://www.youtube.com/watch?v=kjhrrfF2fvM
       hosts:
       - yochannah
@@ -343,6 +368,8 @@ weeks:
         title: Research data management
         recording: https://youtu.be/kjhrrfF2fvM?t=261
         tag: Open Data
+      learning_objectives: "- Hear about Iterative Project management\n- Get familiar
+        with Open Software, Open Hardware, Research Data Management"
   '07':
     start: October 25, 2021
     calls:
@@ -406,6 +433,9 @@ weeks:
         title: Welcoming new contributors + Thinking about community interactions
         recording: https://youtu.be/Mu5Dq6KAMqA?t=2752
         tag: Community Interactions
+      learning_objectives: "- Learn how to develop Open collaboration by design\n
+        - Hear Mountain of engagement and community interactions\n- Learn about Personas
+        and pathways and welcoming new contributors"
   '09':
     start: November 08, 2021
     calls:
@@ -448,6 +478,10 @@ weeks:
         - aki-macfarlane
         title: Policymakers, funders, meta-researchers
         tag: Open Leadership in Practice
+      learning_objectives: "- Hear from the professionals from different career paths\n
+        - Ask them questions about their careers\n- Share worries/insecurities related
+        to your career path, profession or area of work \n- Tips and advice to overcome
+        challenges as an open researcher"
   '10':
     start: November 15, 2021
     calls:
@@ -494,6 +528,10 @@ weeks:
           case of the Galaxy Training Network
         recording: https://youtu.be/SfGHnCedkwY?t=205
         tag: Open Educational Resources
+      learning_objectives: "- Practicing open science\n- DOI and citations: Paper,
+        data, preprints, blogs\n- Non-tradtional publication: pre-registrations, code,
+        protocols, training materials\n- Public engagement: Citizen Science/Participatory
+        research, Scientific communication"
   '11':
     start: November 22, 2021
     end: November 26, 2021
@@ -579,6 +617,8 @@ weeks:
         title: Personal Ecology and Self Care
         recording: https://youtu.be/94FySX0WwPM?t=154
         tag: Personal Ecology
+      learning_objectives: '- Discuss the importance of taking care of mental health
+        and avoiding burn out for both project leaders and community members'
   '14':
     start: December 13, 2021
     calls:
@@ -636,6 +676,9 @@ weeks:
         title: Software citation with the Citation File Format
         recording: https://youtu.be/DbqsS1-ueqI?t=2997
         tag: Open Source Software
+      learning_objectives: "- Learn how to apply FAIR research principles on data,
+        software, training to make research \"as open as possible, as restricted as
+        necessary.\"\n      \n        "
   '15':
     start: January 10, 2022
     calls:
@@ -663,6 +706,8 @@ weeks:
       duration: 60 min
       resources: []
       talks: []
+      learning_objectives: "- Learn about giving and receiving feedback\n- Conduct
+        rehearsal for the final presentation from the project leads registered"
     - notes: https://bit.ly/ols-4-week-15
       content: |-
         In this call, participants will:
@@ -682,6 +727,8 @@ weeks:
       duration: 60 min
       resources: []
       talks: []
+      learning_objectives: "- Learn about giving and receiving feedback\n- Conduct
+        rehearsal for the final presentation from the project leads registered"
     - notes: https://bit.ly/ols-4-week-15
       content: |-
         In this call, participants will:
@@ -701,6 +748,8 @@ weeks:
       duration: 60 min
       resources: []
       talks: []
+      learning_objectives: "- Learn about giving and receiving feedback\n- Conduct
+        rehearsal for the final presentation from the project leads registered"
   '16':
     start: January 17, 2022
     calls:
@@ -723,6 +772,8 @@ weeks:
       duration: 60 min
       resources: []
       talks: []
+      learning_objectives: "- Share a 5 mins presentation of their project\n- Celebrate
+        OLS-4 success"
     - notes: https://bit.ly/ols-4-week-16
       content: |-
         In this call, participants will:
@@ -742,6 +793,8 @@ weeks:
       duration: 60 min
       resources: []
       talks: []
+      learning_objectives: "- Share a 5 mins presentation of their project\n- Celebrate
+        OLS-4 success"
     - notes: https://bit.ly/ols-4-week-16
       content: |-
         In this call, participants will:
@@ -761,3 +814,5 @@ weeks:
       duration: 60 min
       resources: []
       talks: []
+      learning_objectives: "- Share a 5 mins presentation of their project\n- Celebrate
+        OLS-4 success"

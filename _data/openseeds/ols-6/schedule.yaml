@@ -52,6 +52,8 @@ weeks:
       type: Mentor-Mentee
       resources: []
       talks: []
+      learning_objectives: "- Meet each other\n- Discuss their personal motivation,
+        expectations, workin practices and project goals"
     - time: "11:00"
       duration: 60 min
       content: |-
@@ -64,6 +66,9 @@ weeks:
       notes: https://bit.ly/3f60GUT
       resources: []
       talks: []
+      learning_objectives: "- Understand common successes and challenges in mentoring
+        OLS participants\n- Know how to celebrate successes and approach challenges
+        in mentoring OLS participants."
   '02':
     start: September 26, 2022
     calls:
@@ -125,6 +130,11 @@ weeks:
         title: Introducing Road Mapping
         recording: https://youtu.be/bAS74USoPxk?t=2845
         tag: Project Roadmapping
+      learning_objectives: "- Say hello and introduce ourselves\n- Review our Community
+        Participation Guidelines\n- Review our definition of open leadership\n- Unpack
+        the differences between “open by default” and “open by design”\n- Learn about
+        common community interactions in open projects.\n- Learn about common value
+        exchanges between community members in open science"
     - date: September 29, 2022
       time: "17:00"
       duration: 180 min
@@ -187,6 +197,11 @@ weeks:
         title: Introducing Road Mapping
         recording: https://youtu.be/Q1ae8ip4o54?t=3061
         tag: Project Roadmapping
+      learning_objectives: "- Say hello and introduce ourselves\n- Review our Community
+        Participation Guidelines\n- Review our definition of open leadership\n- Unpack
+        the differences between “open by default” and “open by design”\n- Learn about
+        common community interactions in open projects.\n- Learn about common value
+        exchanges between community members in open science"
   '04':
     start: October 10, 2022
     calls:
@@ -200,7 +215,7 @@ weeks:
         project structure and files used may look different on your project.\n  "
       title: Tooling and roadmapping for Open projects
       type: Cohort
-      before: |
+      before: |-
         - Look up two other projects and comment on their GitHub issues with feedback on their open canvas
         - Rework on your vision statement
            - Write your vision in the [Up-Goer 5 editor](https://splasho.com/upgoer5/) or [Hemingway Editor](https://www.hemingwayapp.com/)
@@ -238,6 +253,10 @@ weeks:
         title: Contributing Guidelines and Code of Conduct
         recording: https://youtu.be/M0szFcbGdBU?t=2571
         tag: Code of Conduct
+      learning_objectives: "- Look at project structure as we build open projects\n
+        - Go over the standard files in open projects\n   - README\n   - LICENSE\n\
+        \   - CODE_OF_CONDUCT.md\n   - CONTRIBUTING.md\n\n   The exact project structure
+        and files used may look different on your project.\n  "
   '05':
     start: October 17, 2022
     calls:
@@ -275,6 +294,9 @@ weeks:
         title: Introduction to GitHub
         recording: https://youtu.be/7Oq81K27NmU?t=46
         tag: GitHub Introduction
+      learning_objectives: "- Create a GitHub repository\n- Write in Markdown\n- Create
+        a README file\n- Enable a small website via GitHub\n- Managing issues and
+        labels\n- Submit changes via Pull Request"
   '06':
     start: October 24, 2022
     calls:
@@ -292,7 +314,7 @@ weeks:
         on their README'
       after: |-
         - [Get your project online](https://mozilla.github.io/open-leadership-training-series/articles/get-your-project-online/)
-          For help with GitHub and GitPages, check the [slides](https://docs.google.com/presentation/d/1_bmRZcLwQrUkVTAMvq7W_x4ML_aphSwVEnkLrDy-Fd4/edit?usp=sharing) and [video](https://youtu.be/QRUvQgKbVZQ) from [week 05](/openseeds/ols-6/schedule.html#week-05).
+          For help with GitHub and GitPages, check the [slides](https://docs.google.com/presentation/d/1_bmRZcLwQrUkVTAMvq7W_x4ML_aphSwVEnkLrDy-Fd4/edit?usp=sharing) and [video](https://youtu.be/QRUvQgKbVZQ) from week 05
         - [Create a project development plan for your project](https://docs.google.com/document/d/1DlU8_3AfYWpy8MZ2Hb0Ls-2c1HvHdp1luzxWGaqLXHE/edit?usp=sharing)
           Assignment to help you use Agile methods to breakdown your milestones into smaller tasks and define a timeline for your milestones
           In your own time: After this assignment, you can transfer your tasks to a project management or kanban tools such as [GitHub projects](https://unito.io/blog/github-projects-agile/)), [Trello](https://trello.com/templates/project-management), [Asana](https://asana.com/uses/kanban-boards?msclkid=c0e51366148511fc77394d30727faada&utm_source=bing&utm_medium=cpc&utm_campaign=NB%7CUK%7CEN%7CBoards%7CEX&utm_term=kanban%20board&utm_content=Kanban%20Board), [Zenhub in GitHub](https://www.zenhub.com/)
@@ -327,6 +349,8 @@ weeks:
         title: Open science hardware
         recording: https://youtu.be/AggJQTgsaaU?t=3678
         tag: Open Hardware
+      learning_objectives: "- Hear about Iterative Project management\n- Get familiar
+        with Open Software, Open Hardware, Research Data Management"
   '07':
     start: October 31, 2022
     calls:
@@ -381,7 +405,10 @@ weeks:
         - jywarren
         title: Hardware and inclusive structures for collaborative work
         recording: https://youtu.be/6ZlrGVxjd5Q?t=3117
-        tag: Project Design for Collaboration
+        tag: Community Interactions
+      learning_objectives: "- Learn how to develop Open collaboration by design\n
+        - Hear Mountain of engagement and community interactions\n- Learn about Personas
+        and pathways and welcoming new contributors"
   '09':
     start: November 14, 2022
     calls:
@@ -431,6 +458,10 @@ weeks:
         title: Post Academia Career Path & Social Entrepreneurship
         recording: https://youtu.be/5fTXmHIKaL4?t=3370
         tag: Open Leadership in Practice
+      learning_objectives: "- Hear from the professionals from different career paths\n
+        - Ask them questions about their careers\n- Share worries/insecurities related
+        to your career path, profession or area of work \n- Tips and advice to overcome
+        challenges as an open researcher"
   '10':
     start: November 21, 2022
     calls:
@@ -469,6 +500,10 @@ weeks:
         title: Earthquakes, preprints and everything in between
         recording: https://youtu.be/HKsK9CCcQYU?t=2195
         tag: Open Data
+      learning_objectives: "- Practicing open science\n- DOI and citations: Paper,
+        data, preprints, blogs\n- Non-tradtional publication: pre-registrations, code,
+        protocols, training materials\n- Public engagement: Citizen Science/Participatory
+        research, Scientific communication"
   '11':
     start: November 28, 2022
     calls:
@@ -580,6 +615,8 @@ weeks:
         - wingram
         title: Personal Ecology and Self Care
         tag: Personal Ecology
+      learning_objectives: '- Discuss the importance of taking care of mental health
+        and avoiding burn out for both project leaders and community members'
   '14':
     start: December 19, 2022
     calls:
@@ -610,6 +647,9 @@ weeks:
         title: 'Public engagement: Open Infrastructure, Citizen Science, Science Communication'
         recording: https://youtu.be/I1Jks2PE0ME?t=2115
         tag: Open Engagement of Social Actors
+      learning_objectives: "- Learn how to apply FAIR research principles on data,
+        software, training to make research \"as open as possible, as restricted as
+        necessary.\"\n      \n        "
   '15':
     start: January 09, 2023
     calls:
@@ -637,6 +677,8 @@ weeks:
         \   "
       resources: []
       talks: []
+      learning_objectives: "- Learn about giving and receiving feedback\n- Conduct
+        rehearsal for the final presentation from the project leads registered"
     - date: January 11, 2023
       notes: https://bit.ly/ols-6-week-15
       content: |-
@@ -656,6 +698,8 @@ weeks:
       duration: 60 min
       resources: []
       talks: []
+      learning_objectives: "- Learn about giving and receiving feedback\n- Conduct
+        rehearsal for the final presentation from the project leads registered"
     - date: January 12, 2023
       time: "17:00"
       duration: 60 min
@@ -675,6 +719,8 @@ weeks:
         \   "
       resources: []
       talks: []
+      learning_objectives: "- Learn about giving and receiving feedback\n- Conduct
+        rehearsal for the final presentation from the project leads registered"
   '16':
     start: January 16, 2023
     calls:
@@ -698,6 +744,8 @@ weeks:
       resources: []
       recording: https://youtu.be/VlWA7vygULc
       talks: []
+      learning_objectives: "- Share a 5 mins presentation of their project\n- Celebrate
+        OLS-6 success"
     - date: January 18, 2023
       notes: https://pad.sfconservancy.org/p/ols-6-graduations
       content: |-
@@ -718,6 +766,8 @@ weeks:
       resources: []
       recording: https://youtu.be/lplbwoq6ZTg
       talks: []
+      learning_objectives: "- Share a 5 mins presentation of their project\n- Celebrate
+        OLS-6 success"
     - date: January 19, 2023
       time: "17:00"
       duration: 60 min
@@ -738,3 +788,5 @@ weeks:
       resources: []
       recording: https://youtu.be/Rvs4d5JzCPo
       talks: []
+      learning_objectives: "- Share a 5 mins presentation of their project\n- Celebrate
+        OLS-6 success"

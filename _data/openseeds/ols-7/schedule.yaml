@@ -42,6 +42,8 @@ weeks:
       type: Mentor-Mentee
       resources: []
       talks: []
+      learning_objectives: "- Meet each other\n- Discuss their personal motivation,
+        expectations, workin practices and project goals"
     - time: "09:30"
       duration: 60 min
       content: |-
@@ -56,6 +58,9 @@ weeks:
       notes: https://bit.ly/ols-7-week-01
       resources: []
       talks: []
+      learning_objectives: "- Understand common successes and challenges in mentoring
+        OLS participants\n- Know how to celebrate successes and approach challenges
+        in mentoring OLS participants."
     - time: "14:00"
       duration: 60 min
       content: |-
@@ -84,6 +89,9 @@ weeks:
       type: Mentor
       resources: []
       talks: []
+      learning_objectives: "- Understand common successes and challenges in mentoring
+        OLS participants\n- Know how to celebrate successes and approach challenges
+        in mentoring OLS participants."
   '02':
     start: March 06, 2023
     calls:
@@ -148,6 +156,11 @@ weeks:
         title: Introducing Road Mapping
         recording: https://youtu.be/AMliNkrJIaQ?t=3166
         tag: Project Roadmapping
+      learning_objectives: "- Say hello and introduce ourselves\n- Review our Community
+        Participation Guidelines\n- Review our definition of open leadership\n- Unpack
+        the differences between “open by default” and “open by design”\n- Learn about
+        common community interactions in open projects.\n- Learn about common value
+        exchanges between community members in open science"
     - date: March 08, 2023
       time: "14:00"
       duration: 90 min
@@ -212,6 +225,11 @@ weeks:
         title: Introducing Road Mapping
         recording: https://youtu.be/XulHUHQru2I?t=2887
         tag: Project Roadmapping
+      learning_objectives: "- Say hello and introduce ourselves\n- Review our Community
+        Participation Guidelines\n- Review our definition of open leadership\n- Unpack
+        the differences between “open by default” and “open by design”\n- Learn about
+        common community interactions in open projects.\n- Learn about common value
+        exchanges between community members in open science"
     - date: March 15, 2023
       time: "14:00"
       duration: 90 min
@@ -232,7 +250,7 @@ weeks:
         project structure and files used may look different on your project.\n  "
       title: Tooling and roadmapping for Open projects
       type: Cohort
-      before: |
+      before: |-
         - Look up two other projects and comment on their GitHub issues with feedback on their open canvas
         - Rework on your vision statement
            - Write your vision in the [Up-Goer 5 editor](https://splasho.com/upgoer5/) or [Hemingway Editor](https://www.hemingwayapp.com/)
@@ -274,6 +292,10 @@ weeks:
         title: Code of Conduct
         recording: https://youtu.be/DG3La_p22N0?t=3131
         tag: Code of Conduct
+      learning_objectives: "- Look at project structure as we build open projects\n
+        - Go over the standard files in open projects\n   - README\n   - LICENSE\n\
+        \   - CODE_OF_CONDUCT.md\n   - CONTRIBUTING.md\n\n   The exact project structure
+        and files used may look different on your project.\n  "
     - date: March 22, 2023
       time: "14:00"
       title: OLS Cafetería
@@ -318,6 +340,9 @@ weeks:
         title: Introduction to GitHub
         recording: https://youtu.be/hXRw33CbDJk
         tag: GitHub Introduction
+      learning_objectives: "- Create a GitHub repository\n- Write in Markdown\n- Create
+        a README file\n- Enable a small website via GitHub\n- Managing issues and
+        labels\n- Submit changes via Pull Request"
     - date: March 29, 2023
       time: "13:00"
       title: OLS Cafetería
@@ -349,8 +374,8 @@ weeks:
         on their README'
       after: "- [Get your project online](https://mozilla.github.io/open-leadership-training-series/articles/get-your-project-online/)\n\
         \  For help with GitHub and GitPages, check the [slides](https://docs.google.com/presentation/d/1_bmRZcLwQrUkVTAMvq7W_x4ML_aphSwVEnkLrDy-Fd4/edit?usp=sharing)
-        and [video](https://youtu.be/QRUvQgKbVZQ) from [week 05](/openseeds/ols-7/schedule.html#week-05).\n
-        - [Create a project development plan for your project](https://docs.google.com/document/d/1DlU8_3AfYWpy8MZ2Hb0Ls-2c1HvHdp1luzxWGaqLXHE/edit?usp=sharing)\n\
+        and [video](https://youtu.be/QRUvQgKbVZQ) from week 05\n- [Create a project
+        development plan for your project](https://docs.google.com/document/d/1DlU8_3AfYWpy8MZ2Hb0Ls-2c1HvHdp1luzxWGaqLXHE/edit?usp=sharing)\n\
         \  Assignment to help you use Agile methods to breakdown your milestones into
         smaller tasks and define a timeline for your milestones\n  In your own time:
         After this assignment, you can transfer your tasks to a project management
@@ -388,6 +413,8 @@ weeks:
         recording: https://youtu.be/ViqeEI3J9dY?t=3046
         tag: Open Engagement of Social Actors
       recording: https://youtu.be/ViqeEI3J9dY
+      learning_objectives: "- Hear about Iterative Project management\n- Get familiar
+        with Open Software, Open Hardware, Research Data Management"
   '07':
     start: April 10, 2023
     calls:
@@ -445,6 +472,9 @@ weeks:
         recording: https://youtu.be/ycMEiZXmHp8?t=2341
         tag: Personas & Pathways
       recording: https://youtu.be/ycMEiZXmHp8
+      learning_objectives: "- Learn how to develop Open collaboration by design\n
+        - Hear Mountain of engagement and community interactions\n- Learn about Personas
+        and pathways and welcoming new contributors"
     - date: April 19, 2023
       time: "13:00"
       duration: 90 min
@@ -501,6 +531,10 @@ weeks:
         recording: https://youtu.be/8xfQrbnm_Io?t=2799
         tag: Open Leadership in Practice
       recording: https://youtu.be/8xfQrbnm_Io
+      learning_objectives: "- Hear from the professionals from different career paths\n
+        - Ask them questions about their careers\n- Share worries/insecurities related
+        to your career path, profession or area of work \n- Tips and advice to overcome
+        challenges as an open researcher"
     - date: April 26, 2023
       time: "13:00"
       duration: 90 min
@@ -566,6 +600,10 @@ weeks:
         recording: https://youtu.be/iAckka2c6yc?t=2577
         tag: Openness to Diversity of Knowledge
       recording: https://youtu.be/iAckka2c6yc
+      learning_objectives: "- Practicing open science\n- DOI and citations: Paper,
+        data, preprints, blogs\n- Non-tradtional publication: pre-registrations, code,
+        protocols, training materials\n- Public engagement: Citizen Science/Participatory
+        research, Scientific communication"
   '11':
     start: May 08, 2023
     calls:
@@ -693,6 +731,8 @@ weeks:
         recording: https://youtu.be/4KEakWZjJJA?t=21
         tag: Personal Ecology
       recording: https://youtu.be/4KEakWZjJJA
+      learning_objectives: '- Discuss the importance of taking care of mental health
+        and avoiding burn out for both project leaders and community members'
     - date: May 24, 2023
       time: "13:00"
       duration: 90 min
@@ -750,6 +790,8 @@ weeks:
       hosts: []
       resources: []
       talks: []
+      learning_objectives: "- Learn about giving and receiving feedback\n- Conduct
+        rehearsal for the final presentation from the project leads registered"
     - date: June 06, 2023
       time: "08:00"
       duration: 60 min
@@ -771,6 +813,8 @@ weeks:
         \   "
       resources: []
       talks: []
+      learning_objectives: "- Learn about giving and receiving feedback\n- Conduct
+        rehearsal for the final presentation from the project leads registered"
     - date: June 08, 2023
       time: "16:00"
       duration: 60 min
@@ -791,6 +835,8 @@ weeks:
         \   "
       resources: []
       talks: []
+      learning_objectives: "- Learn about giving and receiving feedback\n- Conduct
+        rehearsal for the final presentation from the project leads registered"
   '16':
     start: June 12, 2023
     calls:
@@ -815,6 +861,8 @@ weeks:
       - malvikasharan
       resources: []
       talks: []
+      learning_objectives: "- Share a 5 mins presentation of their project\n- Celebrate
+        OLS-4 success"
     - date: June 13, 2023
       time: "08:00"
       duration: 60 min
@@ -836,6 +884,8 @@ weeks:
         \   "
       resources: []
       talks: []
+      learning_objectives: "- Share a 5 mins presentation of their project\n- Celebrate
+        OLS-4 success"
     - date: June 15, 2023
       time: "16:00"
       duration: 60 min
@@ -857,3 +907,5 @@ weeks:
         \   "
       resources: []
       talks: []
+      learning_objectives: "- Share a 5 mins presentation of their project\n- Celebrate
+        OLS-4 success"
