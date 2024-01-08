@@ -509,6 +509,14 @@ code {
   }
 }
 
+// remove hover effect from clickable cards
+.no-underline,
+.no-underline:hover {
+  text-decoration: none !important;
+}
+
+
+
 .tooltip {
   font-family: Georgia;
   font-size: 18px;

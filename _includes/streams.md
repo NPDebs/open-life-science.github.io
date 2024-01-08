@@ -1,7 +1,7 @@
 <div class="columns is-multiline">
     {% for stream in page.streams %}
-    <div class="column is-one-third">
-        <a href="#{{ stream.title | slugify }}">
+    <div class="column is-one-third no-underline">
+        <a href="#{{ stream.title | slugify }}" class="no-underline">
             <div class="card stream-card">
                 <div class="card-content">
                     {% if stream.image %}

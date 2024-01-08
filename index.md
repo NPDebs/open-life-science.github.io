@@ -17,7 +17,7 @@ We imagine a future where research is accessible, inclusive, and equitable for e
 <div class="container">
   <div class="columns">
     <div class="column is-one-third">
-      <a href="{% link open-science-training.md %}">
+      <a href="{% link open-science-training.md %}" id="no-underline">
         <div class="card custom-card">
             <div class="card-content">
               <img src="{% link images/three-pillars-icons/open-science-training-icon.png %}" class="image is-128x128" alt="open-science-training logo: a representation of a two people watching a third person on a screen, with a green 'play' button beside">
@@ -28,7 +28,7 @@ We imagine a future where research is accessible, inclusive, and equitable for e
       </a>
     </div>
     <div class="column is-one-third">
-      <a href="{% link open-research.md %}">
+      <a href="{% link open-research.md %}" class="no-underline">
         <div class="card custom-card">
           <div class="card-content">
             <img src="{% link images/three-pillars-icons/open-research-icon.png %}" class="image is-128x128" alt="open-research logo: two files held together by a paper clip, with a microscope ontop.">
@@ -39,7 +39,7 @@ We imagine a future where research is accessible, inclusive, and equitable for e
       </a>
     </div>
     <div class="column is-one-third">
-      <a href="{% link open-incubator.md %}">
+      <a href="{% link open-incubator.md %}" class="no-underline">
         <div class="card custom-card">
           <div class="card-content">
             <img src="{% link images/three-pillars-icons/open-incubator-icon.png %}" class="image is-128x128" alt="open-incubator logo: a transparent glass containing a small green seedling.">
