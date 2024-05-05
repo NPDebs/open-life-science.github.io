@@ -14,6 +14,10 @@
         <p class="title is-4">{{ user.first-name }} {{ user.last-name }}</p>
 
         <p class="is-6">
+          <!-- To make profie cards linkable  -->
+          <a href="#" class="people-card-link" id="copy-link-{{ username }}">
+            <i class="fas fa-link"></i>
+          </a>          
           {% if user.pronouns %}
           Pronouns: {{ user.pronouns }}<br>
           {% endif %}
